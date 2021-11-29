@@ -9,7 +9,7 @@ Follow this for installation
 
 2# pip3 install requests
 
-3# sudo get clone 
+3# sudo get clone https://github.com/Shutdown-exe/Insta-crack
 
 4# sudo service tor start
 
