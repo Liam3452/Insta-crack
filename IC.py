@@ -76,6 +76,7 @@ while True:
 
             if json_data["authenticated"]:
 
+                print("_" * 50)
                 print("login successful")
                 cookies = login_response.cookies
                 cookie_jar = cookies.get_dict()
